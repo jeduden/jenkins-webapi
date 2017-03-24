@@ -31,7 +31,7 @@ classifiers = [
 ]
 
 kw = {
-    'name':             'jenkins-webapi',
+    'name':             'JenkinsWebapiFix',
     'version':          '0.5.3',
     'description':      'Module for interacting with the Jenkins CI server',
     'long_description': open('README.rst').read(),
